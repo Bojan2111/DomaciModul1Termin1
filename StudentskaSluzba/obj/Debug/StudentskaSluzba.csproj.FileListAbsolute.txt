@@ -1,0 +1,8 @@
+C:\DotNetDev\Projects\EvidencijaArtikala\StudentskaSluzba\bin\Debug\StudentskaSluzba.exe.config
+C:\DotNetDev\Projects\EvidencijaArtikala\StudentskaSluzba\bin\Debug\StudentskaSluzba.exe
+C:\DotNetDev\Projects\EvidencijaArtikala\StudentskaSluzba\bin\Debug\StudentskaSluzba.pdb
+C:\DotNetDev\Projects\EvidencijaArtikala\StudentskaSluzba\obj\Debug\StudentskaSluzba.csproj.AssemblyReference.cache
+C:\DotNetDev\Projects\EvidencijaArtikala\StudentskaSluzba\obj\Debug\StudentskaSluzba.csproj.SuggestedBindingRedirects.cache
+C:\DotNetDev\Projects\EvidencijaArtikala\StudentskaSluzba\obj\Debug\StudentskaSluzba.csproj.CoreCompileInputs.cache
+C:\DotNetDev\Projects\EvidencijaArtikala\StudentskaSluzba\obj\Debug\StudentskaSluzba.exe
+C:\DotNetDev\Projects\EvidencijaArtikala\StudentskaSluzba\obj\Debug\StudentskaSluzba.pdb

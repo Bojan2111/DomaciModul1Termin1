@@ -1,0 +1,8 @@
+C:\DotNetDev\Projects\EvidencijaArtikala\Sortiranje\bin\Debug\Sortiranje.exe.config
+C:\DotNetDev\Projects\EvidencijaArtikala\Sortiranje\bin\Debug\Sortiranje.exe
+C:\DotNetDev\Projects\EvidencijaArtikala\Sortiranje\bin\Debug\Sortiranje.pdb
+C:\DotNetDev\Projects\EvidencijaArtikala\Sortiranje\obj\Debug\Sortiranje.csproj.AssemblyReference.cache
+C:\DotNetDev\Projects\EvidencijaArtikala\Sortiranje\obj\Debug\Sortiranje.csproj.SuggestedBindingRedirects.cache
+C:\DotNetDev\Projects\EvidencijaArtikala\Sortiranje\obj\Debug\Sortiranje.csproj.CoreCompileInputs.cache
+C:\DotNetDev\Projects\EvidencijaArtikala\Sortiranje\obj\Debug\Sortiranje.exe
+C:\DotNetDev\Projects\EvidencijaArtikala\Sortiranje\obj\Debug\Sortiranje.pdb

@@ -1,0 +1,8 @@
+C:\DotNetDev\Projects\EvidencijaArtikala\OglasiPolovniAuti\bin\Debug\OglasiPolovniAuti.exe.config
+C:\DotNetDev\Projects\EvidencijaArtikala\OglasiPolovniAuti\bin\Debug\OglasiPolovniAuti.exe
+C:\DotNetDev\Projects\EvidencijaArtikala\OglasiPolovniAuti\bin\Debug\OglasiPolovniAuti.pdb
+C:\DotNetDev\Projects\EvidencijaArtikala\OglasiPolovniAuti\obj\Debug\OglasiPolovniAuti.csproj.AssemblyReference.cache
+C:\DotNetDev\Projects\EvidencijaArtikala\OglasiPolovniAuti\obj\Debug\OglasiPolovniAuti.csproj.SuggestedBindingRedirects.cache
+C:\DotNetDev\Projects\EvidencijaArtikala\OglasiPolovniAuti\obj\Debug\OglasiPolovniAuti.csproj.CoreCompileInputs.cache
+C:\DotNetDev\Projects\EvidencijaArtikala\OglasiPolovniAuti\obj\Debug\OglasiPolovniAuti.exe
+C:\DotNetDev\Projects\EvidencijaArtikala\OglasiPolovniAuti\obj\Debug\OglasiPolovniAuti.pdb

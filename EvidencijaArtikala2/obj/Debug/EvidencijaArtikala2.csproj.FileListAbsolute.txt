@@ -1,0 +1,8 @@
+C:\DotNetDev\Projects\EvidencijaArtikala\EvidencijaArtikala2\bin\Debug\EvidencijaArtikala2.exe.config
+C:\DotNetDev\Projects\EvidencijaArtikala\EvidencijaArtikala2\bin\Debug\EvidencijaArtikala2.exe
+C:\DotNetDev\Projects\EvidencijaArtikala\EvidencijaArtikala2\bin\Debug\EvidencijaArtikala2.pdb
+C:\DotNetDev\Projects\EvidencijaArtikala\EvidencijaArtikala2\obj\Debug\EvidencijaArtikala2.csproj.AssemblyReference.cache
+C:\DotNetDev\Projects\EvidencijaArtikala\EvidencijaArtikala2\obj\Debug\EvidencijaArtikala2.csproj.SuggestedBindingRedirects.cache
+C:\DotNetDev\Projects\EvidencijaArtikala\EvidencijaArtikala2\obj\Debug\EvidencijaArtikala2.csproj.CoreCompileInputs.cache
+C:\DotNetDev\Projects\EvidencijaArtikala\EvidencijaArtikala2\obj\Debug\EvidencijaArtikala2.exe
+C:\DotNetDev\Projects\EvidencijaArtikala\EvidencijaArtikala2\obj\Debug\EvidencijaArtikala2.pdb
